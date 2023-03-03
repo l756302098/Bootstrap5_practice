@@ -1,0 +1,21 @@
+{
+  "name": "Bootstrap5_practice",
+  "version": "1.0.0",
+  "description": "Bootstrap5 practice",
+  "main": "webpack.config.js",
+  "scripts": {
+    "start": "webpack serve --mode development",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/l756302098/Bootstrap5_practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/l756302098/Bootstrap5_practice/issues"
+  },
+  "homepage": "https://github.com/l756302098/Bootstrap5_practice#readme"
+}
